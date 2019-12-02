@@ -4,7 +4,7 @@ This is a demo of using Github.
 
 Some key concept are:
 
-* responsity
+* responsitory
 * branch
 * commit
 * pull request
